@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PierreDugast
-- 👀 I’m interested in Frontend, js frameworks, python
+- 👀 I’m interested in Frontend, JS frameworks, Python, 3D printing
 - 🌱 I’m currently learning a bit of Ruby 
 - 📫 How to reach me : pierredugast1@gmail.com
 
